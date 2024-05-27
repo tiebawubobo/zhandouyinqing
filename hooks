@@ -67,3 +67,7 @@ is_in_tag_battle 081B1250 0
 tag_wild_prepare_buffer_hook 0803AEC0 0
 bbp2F_trainer_throw 0805CB28 0
 get_battle_bank 0803F3CC 1
+get_new_poke_ability 0806b694 2
+_hooke_at_0x806a518 0806a518 3
+_hook_at_0x806ACAC 0806ACAC 3
+set_new_ability_bit 08067bb4 0
